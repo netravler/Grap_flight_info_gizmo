@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\Grap_flight_info_gizmo.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\Grap_flight_info_gizmo.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\bin\Debug\Grap_flight_info_gizmo.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\bin\Debug\Grap_flight_info_gizmo.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\Grap_flight_info_gizmo.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\Grap_flight_info_gizmo\Grap_flight_info_gizmo\obj\x86\Debug\Grap_flight_info_gizmo.pdb
